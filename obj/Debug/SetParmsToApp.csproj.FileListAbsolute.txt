@@ -1,0 +1,15 @@
+D:\Alex\SetParmsToApp\bin\Debug\SetParmsToApp.exe.config
+D:\Alex\SetParmsToApp\bin\Debug\SetParmsToApp.exe
+D:\Alex\SetParmsToApp\bin\Debug\SetParmsToApp.pdb
+D:\Alex\SetParmsToApp\obj\Debug\SetParmsToApp.csproj.AssemblyReference.cache
+D:\Alex\SetParmsToApp\obj\Debug\MainWindow.g.cs
+D:\Alex\SetParmsToApp\obj\Debug\App.g.cs
+D:\Alex\SetParmsToApp\obj\Debug\SetParmsToApp_MarkupCompile.cache
+D:\Alex\SetParmsToApp\obj\Debug\SetParmsToApp_MarkupCompile.lref
+D:\Alex\SetParmsToApp\obj\Debug\MainWindow.baml
+D:\Alex\SetParmsToApp\obj\Debug\SetParmsToApp.g.resources
+D:\Alex\SetParmsToApp\obj\Debug\SetParmsToApp.Properties.Resources.resources
+D:\Alex\SetParmsToApp\obj\Debug\SetParmsToApp.csproj.GenerateResource.cache
+D:\Alex\SetParmsToApp\obj\Debug\SetParmsToApp.csproj.CoreCompileInputs.cache
+D:\Alex\SetParmsToApp\obj\Debug\SetParmsToApp.exe
+D:\Alex\SetParmsToApp\obj\Debug\SetParmsToApp.pdb
